@@ -41,10 +41,3 @@ html {
 .ml-1rem {
   margin-left: 1rem!important;
 }
-
-.has-test {
-  font-size: 5em ! important;
-  color: red !important;
-  /* color: hsl(204, 86%, 53%) !important; */
-}
-
