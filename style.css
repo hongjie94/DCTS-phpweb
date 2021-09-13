@@ -1,0 +1,50 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.is-20rem {
+  width: 20rem;
+}
+
+.is-8rem {
+  width: 8rem;
+}
+
+.is-100vh {
+  min-height: 100vh !important;
+}
+
+.is-h8rem {
+  min-height: 8rem !important;
+}
+
+.is-40rem {
+  width: 40em;
+}
+
+.lineHeight {
+  line-height: inherit;
+}
+
+.min-80vh {
+  min-height: 80vh;
+}
+
+.noBorder {
+  border-bottom: 0 !important;
+}
+
+.negativeMargin {
+  margin-top: -1.5em;
+}
+
+.ml-1rem {
+  margin-left: 1rem!important;
+}
+
+.has-test {
+  font-size: 5em ! important;
+  color: red !important;
+  /* color: hsl(204, 86%, 53%) !important; */
+}
+
