@@ -7,6 +7,6 @@ Simple PHP Web with Diagnostic Trouble Codes API Integration
 * Bulma CSS
 * CSS3
 * HTML5
-* InfinityFree(Hosting)
+* Raspberry pi - nginx(Hosting)
 
-### [http://dtcs.great-site.net](http://dtcs.great-site.net)
+### [https://Hongjiezhang.com/DCTS-phpweb/](https://Hongjiezhang.com/DCTS-phpweb/)
